@@ -6,6 +6,10 @@
 
 :dog: I am also a pet lover who likes Golden.. no no, who is definitely a Golden Retrievers addict! Wish to collect thousands of goldies for endless happiness~
 
----
+<br/>
+<p align="center">= :love_letter: =</p>
+<br/>
 
 If you would like to know more about me, you may have a look on my [updated resume](my-resume.md) or [download a copy](https://github.com/FerlynMayLing/about-me/raw/master/my-resume.docx) for reference.
+
+<br />
