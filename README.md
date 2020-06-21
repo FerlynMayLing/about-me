@@ -10,6 +10,6 @@
 <p align="center">= :love_letter: =</p>
 <br/>
 
-If you would like to know more about me, you may have a look on my [updated resume](my-resume.md) or [download a copy](https://github.com/FerlynMayLing/about-me/raw/master/my-resume.docx) for reference.
+If you would like to know more about me, you may have a look on my [resume](my-resume.md) or [download a copy](https://github.com/FerlynMayLing/about-me/raw/master/my-resume.docx) for reference.
 
 <br />
